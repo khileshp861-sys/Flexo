@@ -27,7 +27,7 @@ nav {
     position: sticky;
     top: 0%;
     z-index: 999;
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
 }
 
 .nav-searchbar {
@@ -437,3 +437,4 @@ nav {
     }
 
 }
+
