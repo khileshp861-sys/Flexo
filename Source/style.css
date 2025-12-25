@@ -435,6 +435,11 @@ nav {
     .footer {
         padding: 25px 20px;
     }
+    .paymentoption img{
+        width: 250px;
+    }
+}
 
 }
+
 
